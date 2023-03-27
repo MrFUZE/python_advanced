@@ -1,0 +1,14 @@
+14:33:05 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+14:33:05 INFO: [33mPress CTRL+C to quit[0m
+14:33:05 INFO:  * Restarting with stat
+14:33:05 WARNING:  * Debugger is active!
+14:33:06 INFO:  * Debugger PIN: 903-938-584
+14:35:02 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+14:35:02 INFO: [33mPress CTRL+C to quit[0m
+14:35:02 INFO:  * Restarting with stat
+14:35:02 WARNING:  * Debugger is active!
+14:35:02 INFO:  * Debugger PIN: 903-938-584
+14:36:54 INFO: Registration successful
+14:36:54 INFO: 127.0.0.1 - - [27/Mar/2023 14:36:54] "POST /registration HTTP/1.1" 200 -
